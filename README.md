@@ -1,0 +1,1 @@
+timer is a simple timer package written in go.
